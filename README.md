@@ -4,12 +4,6 @@ A complete, hands-on Security Operations Center (SOC) lab built with **Splunk En
 covering SIEM deployment, multi-source log collection, dashboarding, attacker simulation, and
 SPL-based detection engineering. Built to demonstrate practical, resume-ready skills for
 entry-level **SOC Analyst / Blue Team** roles.
-
-> 📄 This repository consolidates the full lab report into a single source of truth. All steps,
-> configurations, SPL queries, and screenshots are based on the original documentation, included
-> in full in [`docs/`](docs/) as `Splunk_SIEM_Lab_Report_Part1.pdf` and
-> `Splunk_SIEM_Lab_Report_Part2.pdf` (106 pages combined).
-
 ---
 
 ## 📌 Project Overview
