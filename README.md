@@ -100,10 +100,10 @@ splunk-siem-soc-lab/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── GITHUB_ABOUT.md                          # Suggested About text & topics
+├── GITHUB_ABOUT.md                         
 └── docs/
-    ├── Splunk_SIEM_Lab_Report_Part1.pdf      # Original report, part 1 (Ch. 1-13)
-    ├── Splunk_SIEM_Lab_Report_Part2.pdf      # Original report, part 2 (Ch. 13-19)
+    ├── Splunk_SIEM_Lab_Report_Part1.pdf      
+    ├── Splunk_SIEM_Lab_Report_Part2.pdf     
     ├── 01-introduction-and-lab-setup.md      # Splunk install, index, forwarder, Win logs
     ├── 02-linux-syslog-collection.md         # rsyslog + Splunk UDP input
     ├── 03-firewall-log-collection.md         # Windows Defender Firewall logging
@@ -114,7 +114,7 @@ splunk-siem-soc-lab/
     ├── 08-challenges-and-troubleshooting.md  # Issues encountered & fixes
     ├── 09-best-practices.md                  # SOC/Splunk best practices
     ├── 10-conclusion.md                      # Achievements & learning outcomes
-    └── Screenshots/                          # 71 renamed, sequentially numbered screenshots
+    └── Screenshots/                          # 71 sequentially numbered screenshots
 ```
 
 > The two source PDFs are two halves of one continuous lab report (106 pages total) and are
