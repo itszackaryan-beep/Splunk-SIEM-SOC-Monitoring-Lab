@@ -120,9 +120,9 @@ splunk-siem-soc-lab/
 
 ---
 
-## 🛠️ Chapter-by-Chapter Walkthrough
+## 🛠️ TOPICS-by-TOPICS Walkthrough
 
-| # | Chapter | Summary |
+| # | TOPICS | Summary |
 |---|---|---|
 | 1 | [Introduction & Lab Setup](docs/01-introduction-and-lab-setup.md) | Splunk Enterprise install, `soc_lab` index, Universal Forwarder, Windows Event Log collection & SPL verification |
 | 2 | [Linux Syslog Collection](docs/02-linux-syslog-collection.md) | `rsyslog` forwarding, Splunk UDP input (port 514), verification |
