@@ -117,9 +117,6 @@ splunk-siem-soc-lab/
     └── Screenshots/                          # 71 sequentially numbered screenshots
 ```
 
-> The two source PDFs are two halves of one continuous lab report (106 pages total) and are
-> both preserved in full for reference; the numbered Markdown chapters in `docs/` merge their
-> content into a single, non-duplicated narrative with sequentially renumbered figures.
 
 ---
 
