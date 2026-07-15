@@ -1,6 +1,4 @@
-# GitHub "About" Settings (for repo configuration)
-
-Copy these into your repository's **About** section on GitHub.
+#  "About" 
 
 ## Description
 
